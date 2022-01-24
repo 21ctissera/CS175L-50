@@ -1,5 +1,8 @@
-#CS175-50
+#CS175L-50
 #Chrishen Tissera
-#My Info
-print("my name is Chrishen Tissera")
-print("I am a student")
+#MyInfo
+
+print("Chrishen Tissera")
+print("13 Gremlin Ave, City of Jon Bon Jovi, NJ, 07634")
+print("My telephone number is 123-654-7890")
+print("My major is Software Engineering")
