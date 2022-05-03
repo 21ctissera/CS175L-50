@@ -34,7 +34,7 @@ elif veggie=="yes" and veggie=="no" and g_f=="no":
     print("Mama's Fine Italian")
     print("The Chef's Kitchen")
 
-elif vegan=="yes" and veggie=="no" and gluten_free=="no":
+elif vegan=="yes" and veggie=="no" and g_f=="no":
     print("Corner Cafe")
     print("The Chef's Kitchen")
 
